@@ -1,3 +1,3 @@
 # Projects
 
-Database Link: https://drive.google.com/drive/folders/1tn2pDZ3OEM4JhnvelCYUsKMWu9PnOxmk?usp=sharing
+I am involved in these projects and serve as one of the programmers.

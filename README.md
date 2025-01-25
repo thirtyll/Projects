@@ -1,3 +1,3 @@
 # Projects
 
-I am involved in these projects and serve as one of the programmers.
+These are several projects I'm involved in, where I work as one of the programmers.

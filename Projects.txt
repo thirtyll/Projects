@@ -1,8 +1,0 @@
-Projects: 
-
-- Online Enrollment System
-- Ecommerce
-- Reminder Planner
-- TOS Creation 
-- To-Do List API
-

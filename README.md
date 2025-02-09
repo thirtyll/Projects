@@ -6,7 +6,9 @@ Welcome to my GitHub Project! I am passionate about software development, automa
 📦 E-commerce System
 
 --A web platform for online shopping and transactions.
+
 Technologies: HTML, CSS, JavaScript, PHP, MySQL
+
 Documentation: E-commerce.txt
 
 📝 Exam Checker Machine

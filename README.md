@@ -1,9 +1,9 @@
 # 👋 My GitHub Project! 
 Welcome to my GitHub repository! I am passionate about software development, automation, and user-centered design. This portfolio showcases my projects in education technology, task management, and e-commerce solutions.
 
------ Featured Projects -----
+#----- Featured Projects -----
 
-### E-commerce System
+ E-commerce System
 Description: A web-based platform for online shopping and transactions.
 Technologies: HTML, CSS, JavaScript, PHP, MySQL
 Documentation: E-commerce.txt

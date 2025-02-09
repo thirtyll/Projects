@@ -1,5 +1,5 @@
 # 👋 My GitHub Project! 
-Welcome to my GitHub rProject! I am passionate about software development, automation, and user-centered design. This portfolio showcases my projects in education technology, task management, and e-commerce solutions.
+Welcome to my GitHub Project! I am passionate about software development, automation, and user-centered design. This portfolio showcases my projects in information technology, task management, and e-commerce solutions.
 
 📌 Projects:
 

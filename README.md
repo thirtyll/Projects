@@ -1,7 +1,7 @@
 # 👋 My GitHub Project! 
 Welcome to my GitHub Project! I am passionate about software development, automation, and user-centered design. This portfolio showcases my projects in information technology, task management, and e-commerce solutions.
 
-📌 Projects:
+# 📌 Projects:
 
 📦 E-commerce System 📦
 

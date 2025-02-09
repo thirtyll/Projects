@@ -11,11 +11,13 @@ Technologies: HTML, CSS, JavaScript, PHP, MySQL
 
 Documentation: E-commerce.txt
 
+
 📝 Exam Checker Machine 📝
 
 --An automated grading system using image processing.
 
 Technologies: Python, OpenCV, Raspberry Pi, Arduino
+
 
 ⏰ Reminder Application ⏰
 
@@ -25,6 +27,7 @@ Technologies: Java, Android Studio
 
 Download: Reminder App.apk
 
+
 ✅ To-Do List API ✅
 
 --A task management API with validation and error handling.
@@ -33,6 +36,7 @@ Technologies: Python, FastAPI
 
 Source Code: To-Do List API.zip
 
+
 📚 Online Enrollment System 📚 
 
 --A system for student registration and course enrollment.
@@ -40,6 +44,7 @@ Source Code: To-Do List API.zip
 Technologies: HTML, CSS, JavaScript, PHP, MySQL
 
 Download: Online Enrollment System.zip
+
 
 📊 TOS Creation Tool 📊
 

@@ -3,7 +3,7 @@ Welcome to my GitHub repository! I am passionate about software development, aut
 
 ----- Featured Projects -----
 
-## E-commerce System
+### E-commerce System
 Description: A web-based platform for online shopping and transactions.
 Technologies: HTML, CSS, JavaScript, PHP, MySQL
 Documentation: E-commerce.txt
